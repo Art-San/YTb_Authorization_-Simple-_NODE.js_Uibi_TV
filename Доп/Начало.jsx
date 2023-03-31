@@ -1,3 +1,6 @@
+// Простая авторизация на NODE JS. Роли пользователя. Express и MongoDB. JWT Access Token, bcrypt
+// https://www.youtube.com/watch?v=d_aJdcDq6AY
+
 Есть пустая папка 
 инициализация проэкта
 1. npm init -y // чтоб без вопросов
